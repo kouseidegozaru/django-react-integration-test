@@ -1,0 +1,8 @@
+# create react-appをする前にcdで移動する場合に
+大文字と小文字を区別して移動しないとエラーになる
+
+今回の例
+o  `cd React_app`
+x  `cd react_app`
+
+#Djangoでpipenvshellを忘れないで
